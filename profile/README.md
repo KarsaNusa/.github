@@ -1,7 +1,7 @@
 ## KarsaNusa
 KarsaNusa is an interactive platform designed to introduce, explore, and educate about Indonesian culture. 
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/KarsaNusa/.github/blob/main/profile/assets/logo.png" />
 </p>
 
 
