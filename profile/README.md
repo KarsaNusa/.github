@@ -6,7 +6,7 @@ KarsaNusa is an interactive platform designed to introduce, explore, and educate
 
 
 ## Greetings
-Hello everyone! We are from team CH2-PS227. Our teams consist of seven members, which are:
+Hello everyone! We are from team C242-PS428. Our teams consist of seven members, which are:
 | **Bangkit ID**  | **Name** |  **Learning Path** | **University** | **Github** | **Linkedin** | 
 | ------------- | -------------  | -------------  | -------------  | ------------- | ------------- |
 | M262B4KY3891  | Rivo Juniandra Rumadi  | Machine Learning   | Universitas Muhammadiyah Prof. Dr. Hamka  | [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)](https://github.com/Leon24k)  | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rumadirivo/) |
