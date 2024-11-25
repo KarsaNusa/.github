@@ -15,7 +15,7 @@ Hello everyone! We are from team C242-PS428. Our teams consist of seven members,
 | C262B4KY4600  | Zaky Permana Putra  | Cloud Computing   | Universitas Muhammadiyah Prof. Dr. Hamka  | [![Zakyprm](https://skillicons.dev/icons?i=github)](https://github.com/zakyprm) |
 | C262B4KY1576  | Galang Talkhis Fuady   | Cloud Computing  | Muhammadiyah Prof. Dr. Hamka    | [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)]()  |
 | A262B4KY2297  | Luqman Sukma Rifaada  | Mobile Development   | Muhammadiyah Prof. Dr. Hamka    |  [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)]() |
-| A528B4KY1287  | Erwin Putra Marpaung   | Mobile Development   | Politeknik Negeri Medan  | [![Erwin Putra Marpaung](https://skillicons.dev/icons?i=github)]() | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwin-putra-marpaung/) |
+| A528B4KY1287  | Erwin Putra Marpaung   | Mobile Development   | Politeknik Negeri Medan  | [![Erwin Putra Marpaung](https://skillicons.dev/icons?i=github)](https://github.com/teungku-lak-beuras) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwin-putra-marpaung/) |
 <!--
 
 <!--
