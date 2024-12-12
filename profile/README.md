@@ -13,9 +13,9 @@ Hello everyone! We are from team C242-PS428. Our teams consist of seven members,
 | M260B4KX3374  | Nila Mahardika Tiara Sari  | Machine Learning   | Universitas Muhammadiyah Ponorogo    | [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)]() |
 | M260B4KX3320  | Nerissa Nikmatul Qoiriyah  | Machine Learning   | Universitas Muhammadiyah Ponorogo    | [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)]()   |
 | C262B4KY4600  | Zaky Permana Putra  | Cloud Computing   | Universitas Muhammadiyah Prof. Dr. Hamka  | [![Zakyprm](https://skillicons.dev/icons?i=github)](https://github.com/zakyprm) |
-| C262B4KY1576  | Galang Talkhis Fuady   | Cloud Computing  | Muhammadiyah Prof. Dr. Hamka    | [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)]()  |
-| A262B4KY2297  | Luqman Sukma Rifaada  | Mobile Development   | Muhammadiyah Prof. Dr. Hamka    |  [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)]() |
-| A528B4KY1287  | Erwin Putra Marpaung   | Mobile Development   | Politeknik Negeri Medan  | [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)]() |
+| C262B4KY1576  | Galang Talkhis Fuady   | Cloud Computing  | Muhammadiyah Prof. Dr. Hamka    | [![Talkhis](https://skillicons.dev/icons?i=github)](https://github.com/Talkhis)  |
+| A262B4KY2297  | Luqman Sukma Rifaada  | Mobile Development   | Muhammadiyah Prof. Dr. Hamka    |  [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)](https://github.com/Luqmnsr) |
+| A528B4KY1287  | Erwin Putra Marpaung   | Mobile Development   | Politeknik Negeri Medan  | [![Erwin](https://skillicons.dev/icons?i=github)](https://github.com/teungku-lak-beuras) |
 <!--
 
 <!--
