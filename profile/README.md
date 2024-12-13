@@ -29,7 +29,7 @@ Hello everyone! We are from team C242-PS428. Our teams consist of seven members,
 - [Machine Learning Repository](https://github.com/KarsaNusa/karsanusa-machine-learning.git)
 - [Cloud Computing Backend API Repository](https://github.com/KarsaNusa/karsanusa-api.git)
 
-# KarsaNusa Application
+# 📱 KarsaNusa Application
 [Link Aplikasi]()
 
 <!--
