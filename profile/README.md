@@ -10,7 +10,7 @@
 </p>
 
 ## 🤖 Introduction
-🍽 KarsaNusa is an interactive platform designed to introduce, explore, and educate about Indonesian culture. 
+🎨 KarsaNusa is an interactive platform designed to introduce, explore, and educate about Indonesian culture. 
 
 ## 👤 Greetings
 Hello everyone! We are from team C242-PS428. Our teams consist of seven members, which are:
