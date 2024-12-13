@@ -17,17 +17,6 @@ Hello everyone! We are from team C242-PS428. Our teams consist of seven members,
 | A262B4KY2297  | Luqman Sukma Rifaada  | Mobile Development   | Universitas Muhammadiyah Prof. Dr. Hamka    |  [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)](https://github.com/Luqmnsr) |
 | A528B4KY1287  | Erwin Putra Marpaung   | Mobile Development   | Politeknik Negeri Medan  | [![Erwin](https://skillicons.dev/icons?i=github)](https://github.com/teungku-lak-beuras) |
 
-
-## Cloud Computin Documentation
-1. Using the node js & express.
-2. Create endpoints for User Authentication such as register, and login.  
-3. Create endpoints for news, get all batik news. 
-4. Create an endpoint for predict batik with post batik image and get details batik.  
-5. Deploy API authentication to App Engine.
-6. Deploy API Batik News to Cloud Run. 
-7. Deploy endpoint to make api request for models.
-8. Connect database with Firestore.
-
 <!--
 
 <!--
