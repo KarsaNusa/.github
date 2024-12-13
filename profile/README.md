@@ -9,10 +9,6 @@
   Let's Explore Indonesian Cultural heritage with us !. 
 </p>
 
-<p align="center">
-  An interactive platform designed to introduce, explore, and educate about Indonesian culture. 
-</p>
-
 ## 🤖 Introduction
 🍽 KarsaNusa is an interactive platform designed to introduce, explore, and educate about Indonesian culture. 
 
