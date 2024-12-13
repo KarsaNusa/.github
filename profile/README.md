@@ -30,7 +30,7 @@ Hello everyone! We are from team C242-PS428. Our teams consist of seven members,
 - [Cloud Computing Backend API Repository](https://github.com/KarsaNusa/karsanusa-api.git)
 
 # 📱 KarsaNusa Application
-[Link Aplikasi]()
+[App Link]()
 
 <!--
 
