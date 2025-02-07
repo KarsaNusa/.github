@@ -32,6 +32,9 @@ Hello everyone! We are from team C242-PS428. Our teams consist of seven members,
 # 📱 KarsaNusa Application
 [App Link](https://drive.google.com/drive/folders/1KY-MhyGYAjboMNCAq4VIrNWYqHqAwpca?usp=sharing)
 
+# 👨🏻‍🏫 Presentation & Demo Video
+[Demo & Presentation](https://www.canva.com/design/DAGY_3AZBCY/nABnuXIc1l1eDL0LzKJpxQ/view?utm_content=DAGY_3AZBCY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c189b97e2)
+
 <!--
 
 <!--
