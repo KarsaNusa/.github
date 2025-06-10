@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Let's Explore Indonesian Cultural heritage with us !. 
+  Let's Explore Indonesian Cultural heritage with Karsanusa!. 
 </p>
 
 ---
